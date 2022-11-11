@@ -1,0 +1,7 @@
+input:hover{
+    border: solid 2px black;
+  }
+  
+  #input_message{
+    font-family:Arial;
+  }
