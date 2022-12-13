@@ -1,0 +1,32 @@
+#top_header {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+#top_header > span{
+    font-family:overlock,sans-serif;
+    letter-spacing:0.05em;
+    font-size: 60px;
+}
+
+#flowers_div{
+    position: relative;
+    z-index: -1;
+}
+
+#description{
+    margin: auto;
+    width: 30%;
+    text-align: center;
+    padding: 45px;
+    margin-top: -135px;
+    background-color: white;
+}
+
+#description > p{
+    font-family:avenir-lt-w01_35-light1475496,sans-serif;
+    letter-spacing:0.03em;
+    font-size: 15px;
+    line-height:1.3em;
+}
