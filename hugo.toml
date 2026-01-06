@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://github.com/embandera/my-portfolio/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My Portfolio'
+theme = "ananke"
