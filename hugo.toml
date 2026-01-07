@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/embandera/my-portfolio/'
+baseURL = 'https://www.mitzibandera.com/'
 languageCode = 'en-us'
 title = 'My Portfolio'
 theme = "ananke"
