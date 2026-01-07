@@ -1,0 +1,17 @@
+# Personal notes (local only, not committed)
+NOTES.md
+TODO.md
+
+# Hugo
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.DS_Store
+.vscode/
+.idea/
